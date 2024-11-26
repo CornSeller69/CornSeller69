@@ -1,8 +1,14 @@
->[WARNING]
+>[!WARNING]
 > Sperma!!!!
 
->[NOTE]
+>[!NOTE]
 > Obamna.
 
->[IMPORTANT]
+>[!IMPORTANT]
 > INT NOT NULL AUTO_INCREMENT
+
+>[!TIP]
+> nuh uh!
+
+>[!CAUTION]
+> MONOPOL!!!NSNWJWKIE
