@@ -1,3 +1,3 @@
 <h2>Wellcum to my profile!</h2>
-Yo, I'm CornSeller. I'm a simple failure working on some (not)easy HTML & JS projects and such.
-<h6>As of now, working on Axel in Harlem: Clicker & Friday Evenin' Roulette</h6>
+Yo, I'm CornSeller. I'm working on some HTML projects and such for shits and giggles.
+<h6>As of now, working on multiple projects.</h6>
